@@ -1,0 +1,3 @@
+This is a simple key generator mainly for generating random keys that can be used in HMACSHA256 signing.
+After having written this functionality for the 5th time due to always throwing the console app away I decided to just save it
+to save myself some time...
